@@ -1,0 +1,17 @@
+D:\Projects\Authorization\Auth.Business\bin\Debug\net8.0\Auth.Business.deps.json
+D:\Projects\Authorization\Auth.Business\bin\Debug\net8.0\Auth.Business.dll
+D:\Projects\Authorization\Auth.Business\bin\Debug\net8.0\Auth.Business.pdb
+D:\Projects\Authorization\Auth.Business\bin\Debug\net8.0\Auth.Core.dll
+D:\Projects\Authorization\Auth.Business\bin\Debug\net8.0\Auth.DAL.dll
+D:\Projects\Authorization\Auth.Business\bin\Debug\net8.0\Auth.DAL.pdb
+D:\Projects\Authorization\Auth.Business\bin\Debug\net8.0\Auth.Core.pdb
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Business.csproj.AssemblyReference.cache
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Business.AssemblyInfoInputs.cache
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Business.AssemblyInfo.cs
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Business.csproj.CoreCompileInputs.cache
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Bus.75573D8C.Up2Date
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Business.dll
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\refint\Auth.Business.dll
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\Auth.Business.pdb
+D:\Projects\Authorization\Auth.Business\obj\Debug\net8.0\ref\Auth.Business.dll

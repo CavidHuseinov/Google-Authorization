@@ -1,0 +1,17 @@
+D:\Projects\Authorization\Auth.DAL\bin\Debug\net8.0\Auth.DAL.deps.json
+D:\Projects\Authorization\Auth.DAL\bin\Debug\net8.0\Auth.DAL.runtimeconfig.json
+D:\Projects\Authorization\Auth.DAL\bin\Debug\net8.0\Auth.DAL.dll
+D:\Projects\Authorization\Auth.DAL\bin\Debug\net8.0\Auth.DAL.pdb
+D:\Projects\Authorization\Auth.DAL\bin\Debug\net8.0\Auth.Core.dll
+D:\Projects\Authorization\Auth.DAL\bin\Debug\net8.0\Auth.Core.pdb
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.csproj.AssemblyReference.cache
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.AssemblyInfoInputs.cache
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.AssemblyInfo.cs
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.csproj.Up2Date
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.dll
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\refint\Auth.DAL.dll
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.pdb
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\Auth.DAL.genruntimeconfig.cache
+D:\Projects\Authorization\Auth.DAL\obj\Debug\net8.0\ref\Auth.DAL.dll
