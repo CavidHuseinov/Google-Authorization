@@ -10,7 +10,6 @@ namespace Auth.Business.Helpers.Mapper
         public MappingProfile()
         {
             #region User
-            CreateMap<UserDto, User>().ReverseMap();
             CreateMap<RegisterDto, User>().ReverseMap();
             CreateMap<LoginDto, User>().ReverseMap();
             #endregion

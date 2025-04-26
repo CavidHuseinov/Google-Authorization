@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TE0O3+BLOrA=",
+  "dgSpecHash": "YiMvFbsSXy4=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cavid\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Cavid\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

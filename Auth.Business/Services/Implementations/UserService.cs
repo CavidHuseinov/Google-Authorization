@@ -3,7 +3,7 @@ using Auth.Business.Helpers.DTOs.UserDto;
 using Auth.Business.Services.Interfaces;
 using Auth.Core.Entities.Identity;
 using AutoMapper;
-using Azure;
+using Google.Apis.Auth;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
@@ -21,20 +21,22 @@ namespace Auth.Business.Services.Implementations
         private readonly IMapper _mapper;
         private readonly IConfiguration _config;
         private readonly IHttpContextAccessor _httpContextAccesor;
+        private readonly IGoogleAuthService _googleAuth;
 
-        public UserService(UserManager<User> userManager, IMapper mapper, IConfiguration config, IHttpContextAccessor httpContextAccesor)
+        public UserService(UserManager<User> userManager, IMapper mapper, IConfiguration config, IHttpContextAccessor httpContextAccesor, IGoogleAuthService auth)
         {
             _userManager = userManager;
             _mapper = mapper;
             _config = config;
             _httpContextAccesor = httpContextAccesor;
+            _googleAuth = auth;
         }
         private string GenerateAccessToken(User user, IList<string> roles)
         {
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
-                new Claim(ClaimTypes.Name, user.UserName)
+                new Claim(ClaimTypes.Name, user.UserName),
             };
             foreach(var role in roles)
             {
@@ -66,6 +68,16 @@ namespace Auth.Business.Services.Implementations
                 throw new InvalidOperationException("Bu username artiq movcuddur");
             var mapRegister = _mapper.Map<User>(register);
             var createRegister = await _userManager.CreateAsync(mapRegister,register.Password);
+            if (!createRegister.Succeeded)
+            {
+                StringBuilder sb = new StringBuilder();
+                foreach(var error in createRegister.Errors)
+                {
+                    sb.AppendLine(error.Description);
+                }
+                throw new InvalidOperationException(sb.ToString());
+            }
+            await _userManager.UpdateAsync(mapRegister);
         }
         public async Task<TokenDto> Login(LoginDto login)
         {
@@ -96,6 +108,39 @@ namespace Auth.Business.Services.Implementations
                 RefreshToken = refreshToken
             };
         }
+        public async Task<User> GoogleLoginAsync(string idToken)
+        {
+            var payload = await _googleAuth.ValidateGoogleTokenAsync(idToken);
+
+            var user = await _userManager.FindByEmailAsync(payload.Email);
+
+            if (user == null)
+            {
+                user = new User
+                {
+                    UserName = payload.Email,
+                    Email = payload.Email,
+                    EmailConfirmed = true,
+                    Name = payload.GivenName,
+                    Surname = payload.FamilyName
+                };
+
+                var createResult = await _userManager.CreateAsync(user, "Login@2033Password#");
+                if (!createResult.Succeeded)
+                {
+                    StringBuilder sb = new StringBuilder();
+                    foreach (var error in createResult.Errors)
+                    {
+                        sb.AppendLine(error.Description);
+                    }
+                    throw new InvalidOperationException(sb.ToString());
+                }
+            }
+
+            return user;
+        }
+
+
 
     }
 }

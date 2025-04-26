@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jHvB5MSt3qjYq+NHymxN7ll2A34GQpqVKoiAHfWToGc=",
+  "Source": "Auth.WebAPI",
+  "BasePath": "_content/Auth.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

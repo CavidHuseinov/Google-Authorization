@@ -3,40 +3,92 @@
   "WorkspaceRootPath": "D:\\Projects\\Authorization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\auth.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\auth.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\middlewares\\globalhandleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\middlewares\\globalhandleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\auth.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\auth.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\dalinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\dalinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\middlewares\\globalhandleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\middlewares\\globalhandleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\webapiinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\webapiinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\businessinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\businessinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|d:\\projects\\authorization\\auth.core\\auth.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\auth.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\dtos\\userdto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\dtos\\userdto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\services\\implementations\\googleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\services\\implementations\\googleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\services\\interfaces\\igoogleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\services\\interfaces\\igoogleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\seeddatas\\roleseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\seeddatas\\roleseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|d:\\projects\\authorization\\auth.core\\entities\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\entities\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\validators\\uservalidator\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\validators\\uservalidator\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\context\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\context\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\dtos\\userdto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\dtos\\userdto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,68 +99,12 @@
       "RelativeMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|d:\\projects\\authorization\\auth.core\\auth.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\auth.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|d:\\projects\\authorization\\auth.core\\entities\\identity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\entities\\identity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|d:\\projects\\authorization\\auth.core\\entities\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE6400CA-D1C2-4155-A4B0-BE82EA0DB6A9}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\entities\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\seeddatas\\roleseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\seeddatas\\roleseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\dtos\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\dtos\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\validators\\uservalidator\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\validators\\uservalidator\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|d:\\projects\\authorization\\auth.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D57F7FB-EA87-454D-833E-82EE7A32604A}|Auth.WebAPI\\Auth.WebAPI.csproj|solutionrelative:auth.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\helpers\\validators\\uservalidator\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\helpers\\validators\\uservalidator\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|d:\\projects\\authorization\\auth.business\\auth.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9ED1CC1C-B329-4B34-8D56-95A8DC3C24E9}|Auth.Business\\Auth.Business.csproj|solutionrelative:auth.business\\auth.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425112617_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth.DAL\\Migrations\\20250425112617_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\dalinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\dalinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,6 +113,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\auth.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\auth.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\migrations\\20250425165746_ajskdhasdjkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\migrations\\20250425165746_ajskdhasdjkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\migrations\\20250425162312_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\migrations\\20250425162312_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\migrations\\20250425112617_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\migrations\\20250425112617_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|d:\\projects\\authorization\\auth.dal\\migrations\\20250426105253_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876284C7-6736-4295-9B42-FDB01FAAF8D7}|Auth.DAL\\Auth.DAL.csproj|solutionrelative:auth.dal\\migrations\\20250426105253_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,320 +146,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GlobalHandleException.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
-              "RelativeDocumentMoniker": "Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
-              "RelativeToolTip": "Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "20250426105253_ThirdMigration.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250426105253_ThirdMigration.cs",
+              "RelativeDocumentMoniker": "Auth.DAL\\Migrations\\20250426105253_ThirdMigration.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250426105253_ThirdMigration.cs",
+              "RelativeToolTip": "Auth.DAL\\Migrations\\20250426105253_ThirdMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T17:02:28.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250425165746_ajskdhasdjkh.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
-              "RelativeDocumentMoniker": "Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
-              "RelativeToolTip": "Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:57:46.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Common\\BaseDto.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Common\\BaseDto.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Common\\BaseDto.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\Common\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:56:24.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Auth.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Auth.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:55:51.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:52:54.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Title": "WebAPIInstallerService.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\WebAPIInstallerService.cs",
+              "RelativeDocumentMoniker": "Auth.WebAPI\\WebAPIInstallerService.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\WebAPIInstallerService.cs",
+              "RelativeToolTip": "Auth.WebAPI\\WebAPIInstallerService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:43:30.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:33:36.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Implementations\\UserService.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Services\\Implementations\\UserService.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Implementations\\UserService.cs",
-              "RelativeToolTip": "Auth.Business\\Services\\Implementations\\UserService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwGAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:37:28.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BusinessInstallerService.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\BusinessInstallerService.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\BusinessInstallerService.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\BusinessInstallerService.cs",
-              "RelativeToolTip": "Auth.Business\\BusinessInstallerService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:47:16.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Auth.WebAPI\\Program.cs",
               "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\Program.cs",
               "RelativeToolTip": "Auth.WebAPI\\Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAiwHcAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:06:11.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T09:06:11.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Auth.Core",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj",
-              "RelativeDocumentMoniker": "Auth.Core\\Auth.Core.csproj",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj",
-              "RelativeToolTip": "Auth.Core\\Auth.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-25T10:59:38.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Auth.WebAPI",
+              "DocumentIndex": 2,
+              "Title": "Auth.WebAPI.csproj",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\Auth.WebAPI.csproj",
               "RelativeDocumentMoniker": "Auth.WebAPI\\Auth.WebAPI.csproj",
               "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\Auth.WebAPI.csproj",
               "RelativeToolTip": "Auth.WebAPI\\Auth.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-25T09:09:13.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserToken.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\UserToken.cs",
-              "RelativeDocumentMoniker": "Auth.Core\\Entities\\Identity\\UserToken.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\UserToken.cs",
-              "RelativeToolTip": "Auth.Core\\Entities\\Identity\\UserToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:48:12.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\User.cs",
-              "RelativeDocumentMoniker": "Auth.Core\\Entities\\Identity\\User.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\User.cs",
-              "RelativeToolTip": "Auth.Core\\Entities\\Identity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:00:09.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Auth.WebAPI\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Auth.WebAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:42:06.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TokenDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:36:53.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Context\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "Auth.DAL\\Context\\AuthDbContext.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Context\\AuthDbContext.cs",
-              "RelativeToolTip": "Auth.DAL\\Context\\AuthDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:15:23.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RoleSeed.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\SeedDatas\\RoleSeed.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\SeedDatas\\RoleSeed.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\SeedDatas\\RoleSeed.cs",
-              "RelativeToolTip": "Auth.Business\\SeedDatas\\RoleSeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:15:20.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:45:23.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\UserDto.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\DTOs\\UserDto\\UserDto.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\UserDto.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\DTOs\\UserDto\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:43:34.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:43:25.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Auth.Business\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:37:13.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250425162312_SecondMigration.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
-              "RelativeDocumentMoniker": "Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
-              "RelativeToolTip": "Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:23:12.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginValidator.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T14:57:38.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Auth.WebAPI\\appsettings.json",
               "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\appsettings.json",
               "RelativeToolTip": "Auth.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-25T09:06:34.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T09:06:34.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RegisterValidator.cs",
-              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
-              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
-              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
-              "RelativeToolTip": "Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GlobalHandleException.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
+              "RelativeDocumentMoniker": "Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
+              "RelativeToolTip": "Auth.WebAPI\\Middlewares\\GlobalHandleException.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywDAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:41:19.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T17:02:28.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Auth.Business",
+              "DocumentIndex": 0,
+              "Title": "Auth.Business.csproj",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Auth.Business.csproj",
               "RelativeDocumentMoniker": "Auth.Business\\Auth.Business.csproj",
               "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Auth.Business.csproj",
@@ -459,20 +232,272 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 7,
+              "Title": "BusinessInstallerService.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\BusinessInstallerService.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\BusinessInstallerService.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\BusinessInstallerService.cs",
+              "RelativeToolTip": "Auth.Business\\BusinessInstallerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:47:16.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DALInstallerService.cs",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\DALInstallerService.cs",
               "RelativeDocumentMoniker": "Auth.DAL\\DALInstallerService.cs",
               "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\DALInstallerService.cs",
               "RelativeToolTip": "Auth.DAL\\DALInstallerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:22:15.286Z",
+              "WhenOpened": "2025-04-25T11:22:15.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auth.Core.csproj",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj",
+              "RelativeDocumentMoniker": "Auth.Core\\Auth.Core.csproj",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj",
+              "RelativeToolTip": "Auth.Core\\Auth.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T10:59:38.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
+              "RelativeToolTip": "Auth.Business\\Helpers\\DTOs\\UserDto\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:36:53.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
+              "RelativeToolTip": "Auth.Business\\Helpers\\DTOs\\UserDto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:43:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
+              "RelativeToolTip": "Auth.Business\\Helpers\\DTOs\\UserDto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:43:30.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Auth.WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Auth.WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:42:06.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoogleAuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Implementations\\GoogleAuthService.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Services\\Implementations\\GoogleAuthService.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Implementations\\GoogleAuthService.cs",
+              "RelativeToolTip": "Auth.Business\\Services\\Implementations\\GoogleAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:15:43.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Auth.Business\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:37:28.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Auth.Business\\Helpers\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:45:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Auth.Business\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:37:13.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGoogleAuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Interfaces\\IGoogleAuthService.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Services\\Interfaces\\IGoogleAuthService.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Services\\Interfaces\\IGoogleAuthService.cs",
+              "RelativeToolTip": "Auth.Business\\Services\\Interfaces\\IGoogleAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:14:46.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "Auth.Core\\Entities\\Identity\\User.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\User.cs",
+              "RelativeToolTip": "Auth.Core\\Entities\\Identity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:00:09.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleSeed.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\SeedDatas\\RoleSeed.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\SeedDatas\\RoleSeed.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\SeedDatas\\RoleSeed.cs",
+              "RelativeToolTip": "Auth.Business\\SeedDatas\\RoleSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:15:20.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
+              "RelativeToolTip": "Auth.Business\\Helpers\\Validators\\UserValidator\\RegisterValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:41:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\UserToken.cs",
+              "RelativeDocumentMoniker": "Auth.Core\\Entities\\Identity\\UserToken.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Identity\\UserToken.cs",
+              "RelativeToolTip": "Auth.Core\\Entities\\Identity\\UserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:48:12.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Auth.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Auth.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:55:51.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Common\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Common\\BaseDto.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Common\\BaseDto.cs",
+              "RelativeToolTip": "Auth.Business\\Helpers\\Common\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:56:24.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250425165746_ajskdhasdjkh.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
+              "RelativeDocumentMoniker": "Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
+              "RelativeToolTip": "Auth.DAL\\Migrations\\20250425165746_ajskdhasdjkh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:57:46.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Context\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Auth.DAL\\Context\\AuthDbContext.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Context\\AuthDbContext.cs",
+              "RelativeToolTip": "Auth.DAL\\Context\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:15:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250425162312_SecondMigration.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
+              "RelativeToolTip": "Auth.DAL\\Migrations\\20250425162312_SecondMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:23:12.526Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
+              "ToolTip": "D:\\Projects\\Authorization\\Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
+              "RelativeToolTip": "Auth.Business\\Helpers\\Validators\\UserValidator\\LoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:57:38.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "20250425112617_FirstMigration.cs",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Migrations\\20250425112617_FirstMigration.cs",
               "RelativeDocumentMoniker": "Auth.DAL\\Migrations\\20250425112617_FirstMigration.cs",
@@ -480,12 +505,11 @@
               "RelativeToolTip": "Auth.DAL\\Migrations\\20250425112617_FirstMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:26:17.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:26:17.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Configuration\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Auth.DAL\\Configuration\\UserConfiguration.cs",
@@ -493,13 +517,12 @@
               "RelativeToolTip": "Auth.DAL\\Configuration\\UserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:18:55.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:18:55.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Auth.DAL",
+              "DocumentIndex": 27,
+              "Title": "Auth.DAL.csproj",
               "DocumentMoniker": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
               "RelativeDocumentMoniker": "Auth.DAL\\Auth.DAL.csproj",
               "ToolTip": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj",

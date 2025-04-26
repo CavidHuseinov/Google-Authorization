@@ -17,6 +17,7 @@ namespace Auth.Business
 
             #region Services
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IGoogleAuthService, GoogleAuthService>();
             #endregion
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ERJDmS/L09A=",
+  "dgSpecHash": "qXkqQP3Cfpc=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj",
+  "projectFilePath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cavid\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.15\\microsoft.aspnetcore.cryptography.internal.8.0.15.nupkg.sha512",
     "C:\\Users\\Cavid\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.15\\microsoft.aspnetcore.cryptography.keyderivation.8.0.15.nupkg.sha512",

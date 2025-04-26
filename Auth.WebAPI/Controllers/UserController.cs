@@ -1,4 +1,5 @@
 ﻿using Auth.Business.Helpers.DTOs.UserDto;
+using Auth.Business.Services.Implementations;
 using Auth.Business.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -27,6 +28,12 @@ namespace Auth.WebAPI.Controllers
         {
             var token = await _service.Login(dto);
             return Ok(token);
+        }
+        [HttpPost("google-login-auth")]
+        public async Task<IActionResult> GoogleLoginAsync(string idToken)
+        {
+                var registerDto = await _service.GoogleLoginAsync(idToken);
+                return Ok(registerDto);
         }
     }
 }

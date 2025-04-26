@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Authorization\\Auth.Business\\Auth.Business.csproj": {}
+    "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Business\\Auth.Business.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Authorization\\Auth.Business\\Auth.Business.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Business\\Auth.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Authorization\\Auth.Business\\Auth.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Business\\Auth.Business.csproj",
         "projectName": "Auth.Business",
-        "projectPath": "D:\\Projects\\Authorization\\Auth.Business\\Auth.Business.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Business\\Auth.Business.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Authorization\\Auth.Business\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj": {
-                "projectPath": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj"
+              "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj": {
+                "projectPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj"
               }
             }
           }
@@ -66,6 +66,10 @@
               "target": "Package",
               "version": "[11.11.0, )"
             },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.69.0, )"
+            },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
               "version": "[2.3.0, )"
@@ -91,14 +95,14 @@
         }
       }
     },
-    "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj",
         "projectName": "Auth.Core",
-        "projectPath": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Authorization\\Auth.Core\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +166,14 @@
         }
       }
     },
-    "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
         "projectName": "Auth.DAL",
-        "projectPath": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Authorization\\Auth.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj": {
-                "projectPath": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj"
+              "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj": {
+                "projectPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj"
               }
             }
           }

@@ -4204,11 +4204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
       "projectName": "Auth.DAL",
-      "projectPath": "D:\\Projects\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
+      "projectPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\Auth.DAL.csproj",
       "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Authorization\\Auth.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4229,8 +4229,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj": {
-              "projectPath": "D:\\Projects\\Authorization\\Auth.Core\\Auth.Core.csproj"
+            "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj": {
+              "projectPath": "C:\\Users\\Cavid\\Desktop\\Authorization\\Auth.Core\\Auth.Core.csproj"
             }
           }
         }

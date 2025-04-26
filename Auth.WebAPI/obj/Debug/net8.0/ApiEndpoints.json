@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "Auth.WebAPI.Controllers.UserController",
+    "Method": "GoogleLoginAsync",
+    "RelativePath": "api/User/google-login-auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idToken",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Auth.WebAPI.Controllers.UserController",
     "Method": "LoginAsync",
     "RelativePath": "api/User/login",
     "HttpMethod": "POST",

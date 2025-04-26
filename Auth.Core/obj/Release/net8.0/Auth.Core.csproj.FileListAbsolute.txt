@@ -1,0 +1,12 @@
+D:\Projects\Authorization\Auth.Core\bin\Release\net8.0\Auth.Core.deps.json
+D:\Projects\Authorization\Auth.Core\bin\Release\net8.0\Auth.Core.dll
+D:\Projects\Authorization\Auth.Core\bin\Release\net8.0\Auth.Core.pdb
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\Auth.Core.csproj.AssemblyReference.cache
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\Auth.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\Auth.Core.AssemblyInfoInputs.cache
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\Auth.Core.AssemblyInfo.cs
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\Auth.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\Auth.Core.dll
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\refint\Auth.Core.dll
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\Auth.Core.pdb
+D:\Projects\Authorization\Auth.Core\obj\Release\net8.0\ref\Auth.Core.dll
